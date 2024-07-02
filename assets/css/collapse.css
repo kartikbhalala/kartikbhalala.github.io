@@ -15,3 +15,7 @@
     display: none;
     padding : 5px;
 }
+
+#about-me h2 {
+    margin: 0; /* Apply margin: 0; to all h2 elements inside #about-me */
+}
