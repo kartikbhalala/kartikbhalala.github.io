@@ -1,6 +1,6 @@
 ---
-permalink: /
-title: "Kartik Bhalala | Machine Learning Engineer | Deep Learning, Cloud, and Data Science"
+layout: default
+title: Kartik Bhalala | Machine Learning Engineer | Deep Learning, Cloud, and Data Science
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,11 +9,11 @@ redirect_from:
 
 # About Me
 
-I am Kartik Bhalala, a passionate Machine Learning Engineer with a strong foundation in Information Technology. Currently pursuing a Master's degree in Information Technology from The University of Western Australia, I am expected to graduate in 2024. My academic journey began at Uka Tarsadia University, where I completed my B.Tech in Information Technology.
+I'm Kartik Bhalala, a passionate Machine Learning Engineer and Information Technology professional with a diverse skill set spanning Machine Learning, software development, and data analytics. I am currently pursuing my Master's in Information Technology at The University of Western Australia, I'm constantly expanding my knowledge in cutting-edge areas such as machine learning, natural language processing, and cloud computing.
 
 With hands-on experience in developing sophisticated machine learning models, I specialize in Natural Language Processing, Computer Vision, and Deep Learning. I have a proven track record of leveraging advanced technologies such as PyTorch, OpenCV, and Huggingface to tackle complex problems in fields like sentiment analysis and question-answering systems.
 
-My expertise extends to cloud computing platforms such as AWS and GCP, where I have deployed and managed scalable machine learning solutions and databases. I am skilled in designing and optimizing data warehouses, conducting data analysis, and leveraging SQL and Python for data manipulation and mining.
+Beyond just building models, I've enjoyed diving into cloud computing with platforms like AWS and GCP. I've had the opportunity to deploy scalable machine learning solutions and optimize databases for performance. My skills also include designing and analyzing data warehouses, using SQL and Python to extract meaningful insights from complex datasets.
 
 I am particularly enthusiastic about projects that push the boundaries of technology and have a positive impact on society. For instance, I developed an Intelligent Health Consultation Agent that utilizes OpenAI's GPT-4o to provide accurate health-related responses, enhancing accessibility to medical information.
 
