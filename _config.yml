@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "kartikbhalala.png"
+  avatar           : "kartikbhalala2.jpg"
   name             : "Kartik Bhalala"
   pronouns         : # example: "she/her"  
   bio              : "Deep Learning, Cloud, and Data Science"

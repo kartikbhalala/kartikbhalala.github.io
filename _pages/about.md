@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
 I'm a passionate Machine Learning Engineer and Information Technology professional with a diverse skill set spanning Machine Learning, software development, and data analytics. I am currently pursuing my Master's in Information Technology at The University of Western Australia, I'm constantly expanding my knowledge in cutting-edge areas such as machine learning, natural language processing, and cloud computing.
 
 With hands-on experience in developing sophisticated machine learning models, I specialize in Natural Language Processing, Computer Vision, and Deep Learning. I have a proven track record of leveraging advanced technologies such as PyTorch, OpenCV, and Huggingface to tackle complex problems in fields like sentiment analysis and question-answering systems.
