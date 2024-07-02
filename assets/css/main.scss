@@ -40,6 +40,6 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-#about-me {
-    margin: 0;
+#about-me h2 {
+    margin: 0; /* Apply margin: 0; to all h2 elements inside #about-me */
 }
